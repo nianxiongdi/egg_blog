@@ -1,0 +1,7 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+./blog-admin/node_modules
+./blog-blog/node_modules
+./react-blog/node_modules
+  
