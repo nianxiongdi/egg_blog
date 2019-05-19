@@ -15,7 +15,7 @@ class About extends Component {
     return (
       <div> 
         <Row>
-        <Col
+        <Col 
             lg={{ span: 15, offset: 1 }}
             md={{ span: 15, offset: 1 }}
             xs={{ span: 24 }}
